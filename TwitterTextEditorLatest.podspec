@@ -2,6 +2,7 @@ Pod::Spec.new do |spec|
   spec.name = "TwitterTextEditorLatest"
   spec.version = "1.1.2"
   spec.authors = "Twitter"
+  spec.license = "Apache 2"
   spec.summary = "Unofficial TwitterTextEditor in CocoaPods."
   spec.homepage = "https://github.com/twitter/TwitterTextEditor"
   spec.platform = :ios, "11.0"
